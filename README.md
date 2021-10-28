@@ -1,14 +1,11 @@
 # pro2050
 Softreck's vision for 2050
 
-
-+ humanity
-+ art of human
-+ programming person
++ programming mind
++ API interface for a human
 + personalisation by hormones
 + wetware
-+ 6g
-+ society 5.0
+
 
 --
 + [edit](https://github.com/softreck/pro2050/edit/main/README.md)
